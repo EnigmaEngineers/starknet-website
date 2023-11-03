@@ -142,7 +142,7 @@ blocks:
           4. **Users** – Users will be able to send transactions permissionlessly. As the system will be decentralized, the possibility of censorship will be eliminated.
       - label: What types of dApps can be deployed on Starknet?
         body: Any dApp can be deployed on Starknet. As Cairo allows general computation,
-          any business logic can be implemented and processed over StarkNet.
+          any business logic can be implemented and processed over Starknet.
       - label: Who can deploy a smart contract on Starknet?
         body: >-
           Anyone can interact with Starknet and deploy contracts.
@@ -183,7 +183,7 @@ blocks:
 
           **Starknet** is a general-purpose network where you can write and deploy your own smart contracts, interact with other contracts, and so on, just like Ethereum.
       - label: What will happen to StarkEx dapps? Will they migrate to Starknet?
-        body: Once Starknet is ready, StarkEx apps may migrate to StarkNet if they so
+        body: Once Starknet is ready, StarkEx apps may migrate to Starknet if they so
           choose.
   - type: accordion
     heading: Starknet Token
@@ -264,7 +264,7 @@ blocks:
     heading: General information
     blocks:
       - label: I want to get involved in the Starknet community. How do I do that?
-        body: If you are excited about StarkNet and its decentralization and wish to
+        body: If you are excited about Starknet and its decentralization and wish to
           participate in the process, please join the builders on StarkNet
           [Discord](https://starknet.io/discord) and [Starknet community
           forum](https://community.starknet.io/)
